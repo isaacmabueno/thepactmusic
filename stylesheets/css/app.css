@@ -1,0 +1,33 @@
+.top-bar .toggle-topbar.menu-icon a {
+    height: 34px;
+    line-height: 33px;
+    padding: 0;
+    padding-right: 30px;
+    color: #FFF;
+    position: relative;
+}
+
+.top-bar .toggle-topbar.menu-icon a::after {
+    box-shadow: 0 6px 0 1px #FFFFFF, 0 14px 0 1px #FFFFFF, 0 22px 0 1px #FFFFFF;
+    -webkit-box-shadow: 0 6px 0 1px #FFFFFF, 0 14px 0 1px #FFFFFF, 0 22px 0 1px #FFFFFF;
+    display: block;
+    height: 2px;
+    right: 0px;
+    position: absolute;
+    top: 1px;
+    width: 20px;
+}
+.main-img {
+  /*display: none;*/
+}
+.main-logo{
+  display: none;
+}
+.text {
+  color: white;
+}
+.facebook{
+  max-width: 33px !important;
+  max-height: 33px !important;
+  width: 30px !important;
+  height: 30px !important;
