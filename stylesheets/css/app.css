@@ -17,6 +17,14 @@
     top: 1px;
     width: 20px;
 }
+.menu-text {
+  font-family: "Quicksand" !important;
+}
+.menu-items {
+  font-family: "Quicksand" !important;
+  text-align: center;
+  text-transform: uppercase !important;
+}
 .main-img {
   /*display: none;*/
 }
