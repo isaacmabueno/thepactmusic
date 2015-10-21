@@ -1,6 +1,6 @@
 .top-bar .toggle-topbar.menu-icon a {
     height: 34px;
-    line-height: 33px;
+    line-height: 50px;
     padding: 0;
     padding-right: 30px;
     color: #FFF;
@@ -22,6 +22,10 @@
 }
 .main-logo{
   display: none;
+  background-color: #06241C;
+}
+body {
+  background-color: #06241C;
 }
 .text {
   color: white;
@@ -30,4 +34,24 @@
   max-width: 33px !important;
   max-height: 33px !important;
   width: 30px !important;
+  height: 33px !important;
+  padding-bottom: 10% !important;
+}
+.instagram {
+  max-width: 33px !important;
+  max-height: 33px !important;
+  width: 25px !important;
+  height: 25px !important;
+}
+.soundcloud {
+  max-width: 33px !important;
+  max-height: 40px !important;
+  width: 30px !important;
+  height: 40px !important;
+}
+.bandsintown {
+  max-width: 33px !important;
+  max-height: 33px !important;
+  width: 30px !important;
   height: 30px !important;
+}
