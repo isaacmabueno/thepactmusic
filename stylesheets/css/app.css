@@ -120,3 +120,16 @@ h1.div-title:hover {
   /*font-family: Tinos;*/
 
 }
+.show-dates {
+  text-align: center;
+}
+hr {
+  border: solid black .1px;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 1.25em 0 1.1875em;
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
