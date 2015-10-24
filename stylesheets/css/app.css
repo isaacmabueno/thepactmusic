@@ -82,11 +82,11 @@ h1.div-title {
   text-transform: uppercase;
 }*/
 h1.div-title:hover {
-    background-color: #03231A;
-    color: white;
+    /*background-color: #03231A;*/
+    /*color: rgb(218,165,32);*/
     /*font-weight: bold;*/
     text-decoration: line-through;
-    font-size: 50px;
+    /*font-size: 50px;*/
 }
 /*h1.div-title-even:hover {
   backgroundcolor: white;
@@ -144,6 +144,18 @@ hr {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+.merch-div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+}
+.management-div {
+  margin-top: 5%;
+}
+.mad-max {
+  font-family: Open Sans Condensed;
 }
 /*div.slant-line:after{
   content:"";
