@@ -27,42 +27,22 @@
 }
 .main-img {
   /*display: none;*/
-  background-attachment: fixed !important;
+  /*background-attachment: fixed !important;*/
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 .main-logo{
   display: none;
-  background-color: #03231A;
+  background-color: white;
+  margin-top: 5%;
 }
 body {
-  background-color: #03231A;
+  /*background-color: #03231A;*/
+  background: white;
 }
 .text {
   color: white;
-}
-.facebook{
-  max-width: 33px !important;
-  max-height: 33px !important;
-  width: 30px !important;
-  height: 33px !important;
-  padding-bottom: 10% !important;
-}
-.instagram {
-  max-width: 33px !important;
-  max-height: 33px !important;
-  width: 25px !important;
-  height: 25px !important;
-}
-.soundcloud {
-  max-width: 33px !important;
-  max-height: 40px !important;
-  width: 30px !important;
-  height: 40px !important;
-}
-.bandsintown {
-  max-width: 33px !important;
-  max-height: 33px !important;
-  width: 30px !important;
-  height: 30px !important;
 }
 .music-box {
   background-color: white;
@@ -166,8 +146,64 @@ hr {
   transform-origin: 0% 0%;
 }*/
 .me {
-  color: white;
+  color: rgb(153, 101, 21);
   font-family: Open Sans Condensed;
   float: right;
-  margin-right: 5%;
+  /*margin-right: 5%;*/
+}
+.me:hover {
+  color: white;
+}
+.details-div {
+  color: white;
+  font-family: Open Sans Condensed;
+  margin-left: 5%;
+}
+a.social-medias {
+  color: white;
+  list-style-type: none;
+  margin-left: 5%;
+  margin-top: 20%;
+
+}
+.facebook{
+  max-width: 33px !important;
+  max-height: 33px !important;
+  width: 30px !important;
+  height: 33px !important;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+  /*padding-bottom: 10% !important;*/
+}
+.instagram {
+  max-width: 33px !important;
+  max-height: 33px !important;
+  width: 25px !important;
+  height: 25px !important;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.soundcloud {
+  max-width: 33px !important;
+  max-height: 40px !important;
+  width: 30px !important;
+  height: 40px !important;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.bandsintown {
+  max-width: 33px !important;
+  max-height: 33px !important;
+  width: 30px !important;
+  height: 30px !important;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+footer {
+  background-color: #333333;
 }
