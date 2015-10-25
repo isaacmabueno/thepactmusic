@@ -165,3 +165,9 @@ hr {
   transform: rotate(10deg);
   transform-origin: 0% 0%;
 }*/
+.me {
+  color: white;
+  font-family: Open Sans Condensed;
+  float: right;
+  margin-right: 5%;
+}
