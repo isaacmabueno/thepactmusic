@@ -159,11 +159,13 @@ hr {
   font-family: Open Sans Condensed;
   margin-left: 5%;
 }
-a.social-medias {
+li.social-medias {
   color: white;
   list-style-type: none;
   margin-left: 5%;
   margin-top: 20%;
+  list-style-type: none;
+  text-decoration: none;
 
 }
 .facebook{
