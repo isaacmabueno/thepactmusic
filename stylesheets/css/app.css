@@ -50,6 +50,23 @@ body {
 .music-box-even {
   background-color: white;
 }
+.music-div ul li {
+  display: inline;
+}
+.music-div ul {
+  text-align: center;
+  margin-top: 5%;
+}
+.music-icons {
+  max-width: 33px !important;
+  max-height: 33px !important;
+  width: 30px !important;
+  height: 33px !important;
+
+}
+ul {
+  list-style-type: none;
+}
 h1.div-title {
   font-family: "Quicksand" !important;
   text-align: center;
@@ -136,6 +153,7 @@ hr {
 }
 .mad-max {
   font-family: Open Sans Condensed;
+  color: black;
 }
 /*div.slant-line:after{
   content:"";
@@ -159,52 +177,46 @@ hr {
   font-family: Open Sans Condensed;
   margin-left: 5%;
 }
-li.social-medias {
-  color: white;
-  list-style-type: none;
-  margin-left: 5%;
-  margin-top: 20%;
-  list-style-type: none;
-  text-decoration: none;
-
+li a .social-medias {
+  text-overflow: clip;
+}
+.social-medias ul li {
+display: inline;
+}
+.social-medias ul {
+  text-align: center;
+  margin-top: 3%;
+}
+.vcard {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 .facebook{
   max-width: 33px !important;
   max-height: 33px !important;
   width: 30px !important;
-  height: 33px !important;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-
-  /*padding-bottom: 10% !important;*/
+  height: 32px !important;
+  margin-bottom: 0.4%;
 }
 .instagram {
   max-width: 33px !important;
   max-height: 33px !important;
   width: 25px !important;
   height: 25px !important;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
 .soundcloud {
   max-width: 33px !important;
   max-height: 40px !important;
   width: 30px !important;
   height: 40px !important;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  margin-bottom: -0.7%;
 }
 .bandsintown {
   max-width: 33px !important;
   max-height: 33px !important;
   width: 30px !important;
   height: 30px !important;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
 footer {
   background-color: #333333;
