@@ -64,6 +64,7 @@ body {
   height: 33px !important;
 
 }
+
 ul {
   list-style-type: none;
 }
@@ -96,6 +97,9 @@ h1.div-title:hover {
   text-align: center;
   text-transform: uppercase;
 }
+.sub-text {
+  margin-top: 5%;
+}
 .head-title-members {
   text-align:center;
   list-style: none;
@@ -111,8 +115,8 @@ hr.smallest {
   width: 25%
 }
 .album-art {
-  height: 300px;
-  width: 300px;
+  height: 400px;
+  width: 650px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -153,6 +157,11 @@ hr {
 }
 .mad-max {
   font-family: Open Sans Condensed;
+  text-align: center;
+
+
+}
+.mad-max a{
   color: black;
 }
 /*div.slant-line:after{
