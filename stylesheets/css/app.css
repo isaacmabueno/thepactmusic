@@ -64,6 +64,11 @@ body {
   height: 33px !important;
 
 }
+.spotiFollow {
+  margin-top:5%;
+  text-align: center;
+  margin-left: 100px;
+}
 
 ul {
   list-style-type: none;
