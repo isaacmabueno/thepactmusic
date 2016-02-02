@@ -155,7 +155,13 @@ hr {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 5%;
+  margin-top: 8%;
+}
+.merch-div-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 470px;
 }
 .management-div {
   margin-top: 5%;
