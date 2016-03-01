@@ -102,9 +102,6 @@ h1.div-title:hover {
   text-align: center;
   text-transform: uppercase;
 }
-.sub-text {
-  margin-top: 5%;
-}
 .head-title-members {
   text-align:center;
   list-style: none;
@@ -128,10 +125,13 @@ hr.smallest {
 }
 .sub-text {
   font-family: 'Open Sans Condensed', sans-serif;
-  /*font-family: "Crimson Text";*/
-  /*font-family: 'Old Standard TT', serif;*/
-  /*font-family: Tinos;*/
-
+  margin-top: 5%;
+}
+.sub-text-square {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: justify;
+  margin-top:5%;
+  line-height: 1.7;
 }
 .show-dates {
   text-align: center;
