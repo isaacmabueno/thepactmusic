@@ -17,6 +17,9 @@
     top: 1px;
     width: 20px;
 }
+.home-hero {
+  text-align: center;
+}
 .menu-text {
   font-family: "Quicksand" !important;
 }
